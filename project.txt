@@ -1,0 +1,17 @@
+<form action="" method="post">
+<label>Name</label><br>
+<input type="text" name="name">
+<br>
+<label>Address</label><br>
+<textarea rows="8" cols="22" name="address">    
+</textarea>
+<br>
+<label>Mobile No.</label><br>
+<input type="number" name="mobileno">
+<br>
+<label>Email</label><br>
+<input type="email" name="email">
+<br><br>
+<input type="submit" name="submit" value="Import CSV File">
+
+</form>
